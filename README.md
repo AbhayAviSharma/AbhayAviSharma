@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhayAviSharma
+- 👋 Hi, I’m Abhay Sharma
 - 👀 BCA and MBA (Business Analytics) holder.
 - 🌱 I’m currently learning Data Science and AI.
 - 📫 My key tech skills involve Python (NumPy, Pandas, Sci-kit Learn, Matplotlib, Seaborn), SQL, Advance Excel, Power BI, Tableau.
